@@ -1,9 +1,9 @@
 {
-  "name": "puppeteer-page-proxy",
+  "name": "puppeteer-page-proxy-fix-url",
   "description": "Additional Node.js module to use with 'puppeteer' for setting proxies per page basis.",
   "version": "1.2.8",
   "author": "Cuadrix <cuadrix12000@gmail.com> (https://github.com/Cuadrix)",
-  "homepage": "https://github.com/Cuadrix/puppeteer-page-proxy",
+  "homepage": "https://github.com/Sitronik/puppeteer-page-proxy",
   "main": "./src/index.js",
   "types": "./src/index.d.ts",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Cuadrix/puppeteer-page-proxy.git"
+    "url": "https://github.com/Sitronik/puppeteer-page-proxy"
   },
   "keywords": [
     "puppeteer",
